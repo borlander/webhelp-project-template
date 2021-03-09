@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE categories
-        SYSTEM "http://helpserver.labs.intellij.net/help/categories.dtd">
+        SYSTEM "https://resources.jetbrains.com/stardust/categories.dtd">
 <categories>
     <category id="see_also" name="See Also" order="1"/>
 </categories>
