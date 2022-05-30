@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE product-profile
-        SYSTEM "https://resources.jetbrains.com/stardust/product-profile.dtd">
+<!DOCTYPE instance-profile
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/product-profile.dtd">
 
-<product-profile id="sp"
-                 name="Sample Product"
-                 start-page="About Sample Product.xml">
+<instance-profile id="sp"
+                  name="Sample Product"
+                  start-page="About Sample Product.topic">
 
-    <toc-element id="About Sample Product.xml"/>
-</product-profile>
+    <toc-element topic="About Sample Product.topic"/>
+</instance-profile>
